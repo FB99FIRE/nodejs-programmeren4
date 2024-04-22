@@ -1,6 +1,6 @@
-# My First Nodejs Express server
+# My Felix first Nodejs Express server
 
-Hier komt een korte introductie.
+Felix first node.js express server
 
 ## Installing
 
